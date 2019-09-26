@@ -1,1 +1,2 @@
 Ficheiro de texto para efeitos de testes
+Segunda linha do ficheiro de texto
